@@ -1,5 +1,10 @@
 # Lab1.md
 
+##Part B.
+
+![Bio](image/bio.png)
+
+
 ##Part C2.
 
 How to answer questions in a smart way?
