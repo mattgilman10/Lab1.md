@@ -1,6 +1,6 @@
 # Lab1.md
 
-Part c2.
+##Part C2.
 
 How to answer questions in a smart way?
 
