@@ -2,7 +2,7 @@
 
 ##Part B.
 
-![Bio](image/bio.png)
+[Bio](image/bio.png)
 
 
 ##Part C2.
