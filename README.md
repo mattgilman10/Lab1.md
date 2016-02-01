@@ -15,9 +15,23 @@ How to answer questions in a smart way?
 
 ##Part D. Tree
 
+[Tree](Image/tree.png)
+
 ##Part E. Regex
 
+[problem1](Image/exercise1.png)
+[problem2](Image/problem2.png)
+[problem3](Image/problem3.png)
+[problem4](Image/problem4.PNG)
+[problem5](Image/problem5.PNG)
+[problem6](Image/problem6.png)
+[problem7](Image/problem7.png)
+[tutorial1](Image/Tutorial.PNG)
+[tutorial2](Image/E-3tutorial.png)
+
 ##Part F. Blocky
+
+[Maze](Image/Blocky.PNG)
 
 ##Part G Reflection
 
