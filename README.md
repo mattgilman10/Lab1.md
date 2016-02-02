@@ -15,7 +15,7 @@ How to answer questions in a smart way?
 
 ##Part D. Tree
 
-[Tree](Lab1.md/tree.png)
+[Tree](tree.png)
 
 ##Part E. Regex
 
