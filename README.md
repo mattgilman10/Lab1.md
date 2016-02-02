@@ -2,7 +2,7 @@
 
 ##Part B.
 
-[Bio](Image/bio.png)
+[Bio](Lab1.md/bio.png)
 
 
 ##Part C2. Article
@@ -15,23 +15,23 @@ How to answer questions in a smart way?
 
 ##Part D. Tree
 
-[Tree](Image/tree.png)
+[Tree](Lab1.md/tree.png)
 
 ##Part E. Regex
 
-[problem1](Image/Lab1.md/exercise1.png)
-[problem2](Image/problem2.png)
-[problem3](Image/problem3.png)
-[problem4](Image/problem4.PNG)
-[problem5](Image/problem5.PNG)
-[problem6](Image/problem6.png)
-[problem7](Image/problem7.png)
-[tutorial1](Image/Tutorial.PNG)
-[tutorial2](Image/E-3tutorial.png)
+[problem1](Lab1.md/exercise1.png)
+[problem2](Lab1.md/problem2.png)
+[problem3](Lab1.md/problem3.png)
+[problem4](Lab1.md/problem4.PNG)
+[problem5](Lab1.md/problem5.PNG)
+[problem6](Lab1.md/problem6.png)
+[problem7](Lab1.md/problem7.png)
+[tutorial1](Lab1.md/Tutorial.PNG)
+[tutorial2](Lab1.md/E-3tutorial.png)
 
 ##Part F. Blocky
 
-[Maze](Image/Blocky.PNG)
+[Maze](Lab1.md/Blocky.PNG)
 
 ##Part G Reflection
 
