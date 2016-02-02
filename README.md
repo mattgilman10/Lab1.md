@@ -2,7 +2,7 @@
 
 ##Part B.
 
-Bio ![Bio](Lab1.md/bio.png)
+Bio ![Bio](bio.png)
 
 
 ##Part C2. Article
