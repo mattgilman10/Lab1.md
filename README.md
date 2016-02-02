@@ -19,7 +19,7 @@ How to answer questions in a smart way?
 
 ##Part E. Regex
 
-[problem1](Image/exercise1.png)
+[problem1](Image/Lab1.md/exercise1.png)
 [problem2](Image/problem2.png)
 [problem3](Image/problem3.png)
 [problem4](Image/problem4.PNG)
