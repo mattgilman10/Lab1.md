@@ -19,20 +19,20 @@ How to answer questions in a smart way?
 
 ##Part E. Regex
 
-[problem1](Lab1.md/exercise1.png)
-[problem2](Lab1.md/problem2.png)
-[problem3](Lab1.md/problem3.png)
-[problem4](Lab1.md/problem4.PNG)
-[problem5](Lab1.md/problem5.PNG)
-[problem6](Lab1.md/problem6.png)
-[problem7](Lab1.md/problem7.png)
-[tutorial1](Lab1.md/Tutorial.PNG)
-[tutorial2](Lab1.md/E-3tutorial.png)
-[Puzzle](Lab1.md/help.png)
+![problem1](exercise1.png)
+![problem2](problem2.png)
+![problem3](problem3.png)
+![problem4](problem4.PNG)
+![problem5](problem5.PNG)
+![problem6](problem6.png)
+![problem7](problem7.png)
+![tutorial1](Tutorial.PNG)
+![tutorial2](E-3tutorial.png)
+![Puzzle](help.png)
 
 ##Part F. Blocky
 
-[Maze](Lab1.md/Blocky.PNG)
+![Maze](Blocky.PNG)
 
 ##Part G Reflection
 
