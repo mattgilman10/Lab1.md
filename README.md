@@ -2,7 +2,7 @@
 
 ##Part B.
 
-[Bio](Lab1.md/bio.png)
+Bio ![Bio](Lab1.md/bio.png)
 
 
 ##Part C2. Article
@@ -28,6 +28,7 @@ How to answer questions in a smart way?
 [problem7](Lab1.md/problem7.png)
 [tutorial1](Lab1.md/Tutorial.PNG)
 [tutorial2](Lab1.md/E-3tutorial.png)
+[Puzzle](Lab1.md/help.png)
 
 ##Part F. Blocky
 
