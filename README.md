@@ -28,7 +28,7 @@ How to answer questions in a smart way?
 ![problem7](problem7.png)
 ![tutorial1](Tutorial.PNG)
 ![tutorial2](E-3tutorial.png)
-![Puzzle](help.png)
+![Puzzle](Help.png)
 
 ##Part F. Blocky
 
