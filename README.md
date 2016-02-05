@@ -15,7 +15,7 @@ How to answer questions in a smart way?
 
 ##Part D. Tree
 
-[Tree](Tree.png)
+![Tree](Tree.png)
 
 ##Part E. Regex
 
